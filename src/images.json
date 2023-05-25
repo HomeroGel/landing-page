@@ -1,7 +1,7 @@
 {
     "images": [
         {
-            "image": "https://hackmd.io/_uploads/HyVsYXTBh.jpg",
+            "image": "./src/assets/desktop/imgEarth.jpg",
             "name": "DEEP EARTH"
         },
         {
