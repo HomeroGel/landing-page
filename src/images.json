@@ -1,0 +1,36 @@
+{
+    "images": [
+        {
+            "image": "./src/assets/desktop/imgEarth.jpg",
+            "name": "DEEP EARTH"
+        },
+        {
+            "image": "./src/assets/desktop/imgArcade.jpg",
+            "name": "NIGHT ARCADE"
+        },
+        {
+            "image": "./src/assets/desktop/imgSoccer.jpg",
+            "name": "SOCCER TEAM VR"
+        },
+        {
+            "image": "./src/assets/desktop/imgCar.jpg",
+            "name": "THE GRID"
+        },
+        {
+            "image": "./src/assets/desktop/imgFromUp.jpg",
+            "name": "FROM UP ABOVE VR"
+        },
+        {
+            "image": "./src/assets/desktop/imgBoreal.jpg",
+            "name": "POCKET BOREALIS"
+        },
+        {
+            "image": "./src/assets/desktop/imgCuriosity.jpg",
+            "name": "THE CURIOSITY"
+        },
+        {
+            "image": "./src/assets/desktop/imgFishEye.jpg",
+            "name": "MAKE IT FISHEYE"
+        }
+    ]
+}
